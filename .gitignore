@@ -1,6 +1,9 @@
 # OpenAI API Key
 openai_api_key.txt
 
+# DeepL API Key
+deepl_api_key.txt
+
 # data
 /workspace/openai-study/study/fine_tuning/data
 
